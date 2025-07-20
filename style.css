@@ -1,0 +1,94 @@
+body {
+    font-family: Helvetica, sans-serif;
+  }
+  
+  #signature {
+    background-color: white;
+  }
+  
+  .container-fluid {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  input[type='checkbox'] {
+    vertical-align: middle;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .white {
+    color: white;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: lighter;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  .logos1 {
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    border-collapse: collapse;
+  }
+  .logos1 td {
+    text-align: center;
+    padding: 2px;
+    font-weight: bold;
+  }
+  .logos1 td img {
+    max-width: 280px;
+  }
+  
+  .logos td img {
+    max-width: 280px;
+  }
+  
+  .logos td img.solo {
+    width: 10rem;
+    padding: 1rem;
+  }
+  
+  .logos td {
+    text-align: center;
+    padding: 2px;
+    font-weight: bold;
+  }
+  
+  
+  .button:hover {
+    color: #d0f3f3;
+    background-color: #192a32;
+  }
+  
+  
+  h2 {
+    color: #192a32;
+    font-size: 3em;
+    text-align: center;
+    font-weight: lighter;
+  }
+  
+  .col-xs-1 {
+    margin: 5px;
+    padding: 20px;
+    height: 160px;
+    border-radius: 10%;
+  }
+  
+  .red {
+    background-color: #ba1449;
+  }
+  
+  .white {
+    background-color: #f8faed;
+  }
+  
+  .gray {
+    background-color: #495053;
+  }
