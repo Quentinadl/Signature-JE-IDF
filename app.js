@@ -53,13 +53,13 @@ document.addEventListener('DOMContentLoaded', () => {
   
 	  const socialsHTML = r_sociaux ? `
 	  <a href="https://join.slack.com/t/junior-entreprise-idf/shared_invite/zt-399qwyf46-dxoVwqvetovvC46FAvkzjA" target="_blank" rel="noopener">
-		<img src="images/slack.png" alt="slack" style="width: 20px; height: 20px;" />
+		<img src="images/slack.png" alt="slack" style="width: 20px; height: 20px; margin-top: -5px;" />
 	  </a>
 	  <a href="https://www.linkedin.com/company/jeidf/" target="_blank" rel="noopener" style="margin-left: 8px;">
-		<img src="images/linkedIn.png" alt="linkedIn" style="width: 20px; height: 20px;" />
+		<img src="images/linkedIn.png" alt="linkedIn" style="width: 20px; height: 20px; margin-top: -5px;" />
 	  </a>
 	  <a href="https://www.instagram.com/junior_entreprises_idf/" target="_blank" rel="noopener" style="margin-left: 8px;">
-		<img src="images/instagram.png" alt="instagram" style="width: 20px; height: 20px;" />
+		<img src="images/instagram.png" alt="instagram" style="width: 20px; height: 20px; margin-top: -5px;" />
 	  </a>
 	` : '';
 	
